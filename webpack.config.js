@@ -12,6 +12,6 @@ module.exports = {
     ]
   },
   output: {
-    filename: './build/client/bundle.js'
+    filename: './dist/client/bundle.js'
   }
 }
